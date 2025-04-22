@@ -1,2 +1,3 @@
 # AssignmentAK
-This is REadME
+This is REadME 
+Own by me (Abdul Aliyan)
